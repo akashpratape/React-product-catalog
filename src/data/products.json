@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "name": "Bracelet",
+        "category": "jewellery",
+        "price": 99.99,
+        "image": "/images/bracelet.jpg",
+        "description":"Crafted with precision and elegance, this golden bracelet for men is a timeless accessory that combines style and durability. Its sleek and modern design makes it a versatile piece, perfect for complementing formal attire or adding a touch of sophistication to casual outfits. Made from high-quality materials, it offers a luxurious feel while ensuring lasting durability. Whether for a special occasion or everyday wear, this bracelet is a statement of refined taste and confidence. A perfect gift for yourself or a loved one, it embodies both elegance and practicality."
+    },
+    {
+        "id": 2,
+        "name": "Women's jewellery",
+        "category": "jewellery",
+        "price": 149.99,
+        "image": "/images/womensJewellery.jpg",
+        "description":"Elegant and timeless women’s jewelry designed to enhance your beauty and style. Featuring exquisite craftsmanship and high-quality materials, each piece is perfect for adding a touch of sophistication to any outfit. From delicate necklaces to dazzling earrings and bracelets, our collection offers something for every occasion. Whether for a formal event, a casual outing, or a thoughtful gift, these stunning designs celebrate femininity and grace. Perfect for expressing your unique personality and charm."
+    },
+    {
+        "id": 3,
+        "name": "Charger",
+        "category": "electronics",
+        "price": 15.99,
+        "image": "/images/charger.jpg",
+        "description":"High-performance C-Type charger designed for fast and efficient charging of your devices. Crafted with durable, high-quality materials to ensure long-lasting reliability and safety. Its compact and lightweight design makes it ideal for home, office, or travel use. Compatible with a wide range of devices, it offers a stable connection for hassle-free charging. A perfect blend of functionality and convenience, this charger is an essential accessory for staying powered up on the go."
+    },
+    
+    {
+        "id": 4,
+        "name": "Speaker",
+        "category": "electronics",
+        "price": 49.99,
+        "image": "/images/speaker1.jpg",
+        "description":"Powerful and portable speaker designed to deliver crystal-clear sound with deep bass. Its sleek and modern design makes it a stylish addition to any space, while the durable build ensures long-lasting performance. With Bluetooth connectivity, it allows seamless pairing with your devices for wireless music streaming. The compact size and long battery life make it perfect for both indoor and outdoor use. Ideal for parties, gatherings, or personal listening, this speaker offers an immersive audio experience wherever you go."
+    },
+    {
+        "id": 5,
+        "name": "Power Extension",
+        "category": "electronics",
+        "price": 19.99,
+        "image": "/images/powerextension.jpg",
+        "description":"Reliable and durable power extension designed to provide convenient access to multiple outlets. Built with high-quality materials, it ensures safety and long-lasting performance. Featuring a compact design and sufficient cord length, it’s perfect for home, office, or travel use. Equipped with surge protection and multiple sockets, it can handle various devices simultaneously. Ideal for powering electronics, appliances, and gadgets efficiently and securely."
+    },
+    {
+        "id": 6,
+        "name": "Men's T-shirt",
+        "category": "mensclothing",
+        "price": 29.99,
+        "image": "/images/mensTshirt.jpg",
+        "description":"Classic navy blue men’s t-shirt made from soft, breathable fabric for all-day comfort. Its simple yet stylish design makes it a versatile addition to any wardrobe, perfect for casual outings or layering. Featuring a relaxed fit and durable stitching, this t-shirt offers both style and longevity. The rich navy blue color pairs effortlessly with jeans, shorts, or trousers, making it an essential piece for everyday wear."
+    },
+    {
+        "id": 7,
+        "name": "Men's white T-shirt ",
+        "category": "mensclothing",
+        "price": 19.99,
+        "image": "/images/mensTshirt2.jpg",
+        "description":"Essential white men’s t-shirt crafted from soft, breathable cotton for maximum comfort. Its clean, simple design makes it a versatile wardrobe staple, perfect for casual wear or layering. With a tailored fit and durable fabric, this t-shirt offers both style and long-lasting wear. The classic white color pairs easily with any outfit, making it ideal for any occasion, from laid-back weekends to a smart casual look."
+    },
+    {
+        "id": 8,
+        "name": "Women's Navy blue Top",
+        "category": "womensclothing",
+        "price": 29.99,
+        "image": "/images/womensClothing.jpg",
+        "description":"Chic navy blue women’s top designed for both comfort and style. Made from soft, breathable fabric, it offers a flattering fit and versatile look. The rich navy blue color adds sophistication, making it perfect for casual outings or more polished occasions. With its simple yet elegant design, this top pairs beautifully with jeans, skirts, or trousers, providing an effortless and fashionable option for any wardrobe."
+    },
+    {
+        "id": 9,
+        "name": "Women's Top",
+        "category": "womensclothing",
+        "price": 49.99,
+        "image": "/images/womensClothing2.jpg",
+        "description":"Elegant women’s coat designed to keep you warm and stylish during colder months. Crafted from high-quality fabric, it offers both comfort and durability, while the sleek, tailored fit enhances your silhouette. The classic design and versatile color make it easy to pair with any outfit, from casual to formal. Perfect for layering over dresses, sweaters, or blouses, this coat adds a sophisticated touch to your winter wardrobe while providing essential warmth and protection."
+    }
+]
