@@ -1,0 +1,56 @@
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+}
+
+.detailed-card {
+    background: white;
+    border-radius: 10px;
+    padding: 20px;
+    width: 80%;
+    max-width: 600px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    position: relative;
+    animation: fadeIn 0.3s ease-in-out;
+}
+
+.detailed-card-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.detailed-card-image {
+    max-width: 60%;
+    height: auto;
+    margin-bottom: 2%;
+}
+
+.close-button {
+    position: absolute;
+    top: 1%;
+    right: 1%;
+    background: #ff5c5c;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 1.2rem;
+}
+
+.close-button:hover {
+    background: #ff0000;
+}
+
+.details {
+    font-family: Arial, Helvetica, sans-serif;
+}
